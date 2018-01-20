@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+version="1.1" 
+creator="Moves Export - http://www.moves-export.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://www.topografix.com/GPX/1/1" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"> 
+<trk><name>20171107 - Seg #1 - 29 pts</name><src>Moves via Moves Export</src>
+<trkseg>
+<trkpt lat="35.668071" lon="139.657710"><ele>0</ele><time>2017-11-07T00:04:37Z</time></trkpt>
+<trkpt lat="35.667417" lon="139.658490"><ele>0</ele><time>2017-11-07T00:08:37Z</time></trkpt>
+</trkseg>
+
+<trkseg>
+<trkpt lat="35.667417" lon="139.658490"><ele>0</ele><time>2017-11-07T00:08:37Z</time></trkpt>
+<trkpt lat="35.661174" lon="139.666940"><ele>0</ele><time>2017-11-07T00:16:08Z</time></trkpt>
+<trkpt lat="35.625875" lon="139.572660"><ele>0</ele><time>2017-11-07T00:19:11Z</time></trkpt>
+<trkpt lat="35.615179" lon="139.528920"><ele>0</ele><time>2017-11-07T00:43:15Z</time></trkpt>
+<trkpt lat="35.603177" lon="139.507010"><ele>0</ele><time>2017-11-07T00:46:30Z</time></trkpt>
+<trkpt lat="35.543499" lon="139.444000"><ele>0</ele><time>2017-11-07T00:55:42Z</time></trkpt>
+<trkpt lat="35.526548" lon="139.435690"><ele>0</ele><time>2017-11-07T00:59:06Z</time></trkpt>
+<trkpt lat="35.519673" lon="139.438220"><ele>0</ele><time>2017-11-07T00:59:59Z</time></trkpt>
+<trkpt lat="35.519672" lon="139.438220"><ele>0</ele><time>2017-11-07T01:00:00Z</time></trkpt>
+<trkpt lat="35.502919" lon="139.444400"><ele>0</ele><time>2017-11-07T01:02:11Z</time></trkpt>
+<trkpt lat="35.493731" lon="139.448930"><ele>0</ele><time>2017-11-07T01:02:54Z</time></trkpt>
+<trkpt lat="35.469571" lon="139.461580"><ele>0</ele><time>2017-11-07T01:05:24Z</time></trkpt>
+<trkpt lat="35.447514" lon="139.464720"><ele>0</ele><time>2017-11-07T01:08:24Z</time></trkpt>
+<trkpt lat="35.403079" lon="139.466930"><ele>0</ele><time>2017-11-07T01:12:32Z</time></trkpt>
+</trkseg>
+
+<trkseg>
+<trkpt lat="35.403079" lon="139.466930"><ele>0</ele><time>2017-11-07T01:12:32Z</time></trkpt>
+<trkpt lat="35.396867" lon="139.467250"><ele>0</ele><time>2017-11-07T01:13:56Z</time></trkpt>
+<trkpt lat="35.397300" lon="139.467710"><ele>0</ele><time>2017-11-07T01:16:57Z</time></trkpt>
+<trkpt lat="35.396946" lon="139.467180"><ele>0</ele><time>2017-11-07T01:22:10Z</time></trkpt>
+<trkpt lat="35.395872" lon="139.464920"><ele>0</ele><time>2017-11-07T01:25:11Z</time></trkpt>
+<trkpt lat="35.395869" lon="139.464910"><ele>0</ele><time>2017-11-07T01:25:28Z</time></trkpt>
+</trkseg>
+
+<trkseg>
+<trkpt lat="35.395869" lon="139.464910"><ele>0</ele><time>2017-11-07T01:25:28Z</time></trkpt>
+<trkpt lat="35.395713" lon="139.464190"><ele>0</ele><time>2017-11-07T01:29:22Z</time></trkpt>
+<trkpt lat="35.395788" lon="139.458600"><ele>0</ele><time>2017-11-07T01:32:47Z</time></trkpt>
+<trkpt lat="35.392961" lon="139.447250"><ele>0</ele><time>2017-11-07T01:37:48Z</time></trkpt>
+<trkpt lat="35.391797" lon="139.440540"><ele>0</ele><time>2017-11-07T01:40:44Z</time></trkpt>
+<trkpt lat="35.388261" lon="139.427300"><ele>0</ele><time>2017-11-07T01:45:40Z</time></trkpt>
+<trkpt lat="35.388370" lon="139.426920"><ele>0</ele><time>2017-11-07T01:46:39Z</time></trkpt>
+</trkseg>
+
+</trk> 
+</gpx> 
